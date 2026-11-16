@@ -3,6 +3,8 @@
     <application
         android:allowBackup="true"
         android:label="Mohsin Adnan Online Store"
+        android:icon="@drawable/ic_launcher"
+        android:roundIcon="@drawable/ic_launcher"
         android:usesCleartextTraffic="false"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
         <activity
